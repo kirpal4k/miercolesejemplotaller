@@ -1,0 +1,37 @@
+.fondo{
+    background-color: rgb(9, 247, 155) !important;
+}
+.fuente{
+    font-family: 'Caveat', cursive;
+}
+.text{
+    
+    text-align: center;
+}
+.zoom{
+    transition: all 0.5 ease;
+}
+.zoom:hover{
+    transform: scale(1.3);
+}
+.fuente2{
+    
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    font-weight: 500;
+    
+    
+}
+.fondoDos{
+    background-color: #fdfdfd;
+}
+
+.fondopantalla{
+
+    -webkit-filter: grayscale(100%);
+    background-image: url('../img/fondopantalla.jpg');
+    background-attachment: fixed;
+    height: 550px;
+    filter: grayscale(100%);
+
+}
